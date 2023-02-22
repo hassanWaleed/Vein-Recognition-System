@@ -1,0 +1,6 @@
+folder: code
+	this folder contains the notebook of code, how to create model, train and save it; you need not to use it only use it if you want to retrain the model
+folder: model
+	go to to the folder and run main.py file using command: python main.py
+	note: before this install the required modules using pip 
+	after is starts running, navigate to browser and type http://127.0.0.1:5000/
